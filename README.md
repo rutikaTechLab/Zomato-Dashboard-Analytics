@@ -1,69 +1,76 @@
-# 📊 Advanced Business Intelligence Dashboard | Power BI
+# 🍽 Zomato Data Analysis Dashboard | Power BI
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
-![Dashboard](https://img.shields.io/badge/Type-Interactive%20Dashboard-blue)
+![Domain](https://img.shields.io/badge/Domain-Food%20Delivery-red)
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
 ## 📌 Project Overview
 
-This project presents an **Advanced Business Intelligence Dashboard** developed using Power BI to analyze and monitor key business metrics. The dashboard provides meaningful insights into **sales performance, profit analysis, customer behavior, and regional trends** through interactive visualizations.
+This project showcases an **interactive Zomato Data Analysis Dashboard** built using Power BI. The dashboard analyzes food delivery data to uncover valuable insights about **restaurant performance, delivery trends, customer preferences, and city-wise analysis**.
 
-It helps businesses make **data-driven decisions** by identifying growth opportunities and performance gaps.
+It helps in understanding business performance and improving operational efficiency using data-driven insights.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze overall **Sales and Profit Performance**
-- Identify **Top Performing Products and Regions**
-- Track **Business Growth Trends**
-- Monitor **Key Performance Indicators (KPIs)**
-- Enable **Interactive Data Exploration**
+- Analyze **Total Orders, Revenue, and Delivery Performance**
+- Identify **Top Performing Restaurants**
+- Analyze **City-wise and Location-wise Orders**
+- Track **Delivery Time Performance**
+- Understand **Customer Ordering Trends**
 
 ---
 
 ## 🛠 Tools & Technologies Used
 
 - Power BI
-- Power Query (Data Cleaning & Transformation)
-- DAX (Data Analysis Expressions)
-- Data Visualization Techniques
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
 
 ---
 
 ## 📈 Dashboard Features
 
-- KPI Cards (Total Sales, Profit, Quantity)
-- Sales Trend Analysis
-- Region-wise Performance Analysis
-- Category and Sub-Category Analysis
+- KPI Cards (Total Orders, Revenue, Average Delivery Time)
+- City-wise Order Analysis
+- Restaurant Performance Analysis
+- Delivery Time Analysis
 - Interactive Filters and Slicers
 
 ---
 
+## 📄 Project File
+
+📁 `Zomato_Dashboard.pdf`
+
+---
+
+
 ## 💡 Key Insights
 
-- Identified top revenue generating regions
-- Analyzed profit trends over time
-- Found high and low performing product categories
-- Provided clear business performance overview
+- Identified cities with highest orders
+- Found top performing restaurants
+- Analyzed delivery performance
+- Detected peak order periods
 
 ---
 
 ## 🚀 Conclusion
 
-This dashboard demonstrates strong skills in **data analysis, visualization, and business intelligence** using Power BI. It transforms raw data into meaningful insights for effective decision-making.
+This dashboard helps analyze food delivery operations and provides actionable insights to improve business performance and customer satisfaction.
 
 ---
 
 ## 👩‍💻 Author
 
-**Rutika Patel**
-
+**Rutika Patel**  
 Data Analyst | Power BI Developer
 
 ---
 
-## ⭐ If you like this project, don't forget to star the repository!
+## ⭐ Star this repository if you found it useful!
